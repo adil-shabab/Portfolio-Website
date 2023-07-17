@@ -818,6 +818,13 @@ ol {
 
 
 
+
+.branding_img{
+    width: 100%;
+    object-fit: cover;
+    /* filter: brightness(0%) invert(100%); */
+}
+
 /* # Credentials */
 .credential-area {
     padding-top: 80px;
