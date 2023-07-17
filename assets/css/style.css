@@ -1448,6 +1448,9 @@ ol {
 }
 .footer-area .footer-content .logo img {
     display: block;
+    width: 250px;
+    object-fit: cover;
+    filter: brightness(0%) invert(100%);
 }
 .footer-area .footer-content .footer-menu {
     margin: 33px 0 37px 0;
