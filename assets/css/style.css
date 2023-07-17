@@ -384,7 +384,7 @@ ol {
 
 /* # Header */
 .header-area{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .header-area .logo {
@@ -393,6 +393,9 @@ ol {
 }
 .header-area .logo img {
     display: block;
+    width: 230px;
+    object-fit: cover;
+    filter: brightness(0%) invert(100%);
 }
 .header-area .navbar {
     margin: 0;
@@ -513,7 +516,7 @@ ol {
 }
 .about-area .about-credentials-wrap .banner {
     padding: 17px 25px;
-    margin-bottom: 24px;
+    margin-top: 24px;
 }
 .marquee {
     position: relative;
