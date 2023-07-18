@@ -1,9 +1,4 @@
-/*!
- * Iconoir
- * Copyright (c) 2023 Luca Burgio - https://iconoir.com
- * License - https://github.com/lucaburgio/iconoir/blob/main/LICENSE (Code: MIT License)
- * CSS file created by Till Esser (@Wiwaltill) and automated by Pascal Jufer (@paescuj)
- */
+
 
 *[class^="iconoir-"]::before,
 *[class*=" iconoir-"]::before {
